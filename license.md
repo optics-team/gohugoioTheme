@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2017 Bud Parr
+Original Hugo Theme Copyright (c) 2017 Bud Parr
+Prism Modifications Copyright (c) 2017 Warren Seymour
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
