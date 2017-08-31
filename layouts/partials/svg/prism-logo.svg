@@ -1,0 +1,13 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 750 140">
+ <g transform="matrix(3.7796 0 0 3.7796 -.0016756 -982.53)">
+  <g transform="matrix(.11256 0 0 .11256 -.000079163 249.66)">
+   <rect transform="rotate(256.05 75.541 279.67)" height="151.29" width="17.648" y="204.03" x="66.717" fill="#b6f2fc"/>
+   <polygon points="53.815 413.48 235.67 98.502 417.52 413.48" fill="#8ed7e0"/>
+   <polygon points="511.99 315.74 368.18 337.49 344.87 329.26 296.64 235.13 511.99 268.44" fill="#f4bd64"/>
+   <polygon points="356.81 308.32 511.99 315.74 511.99 363.02 384.89 356.94 384.87 356.94 344.87 329.26" fill="#4eb79b"/>
+   <polygon points="511.99 268.44 328.73 259.69 276.63 248.08 300.66 211.06 511.99 221.16" fill="#e88158"/>
+   <polygon points="113.88 263.56 300.66 211.06 328.73 259.69 356.8 308.32 356.81 308.32 384.87 356.94 385.87 358.67" fill="#b6f2fc"/>
+  </g>
+  <text style="font-variant-ligatures:normal;letter-spacing:0px;font-variant-numeric:normal;word-spacing:0px;font-variant-caps:normal;font-feature-settings:normal" font-family="Muli" xml:space="preserve" font-size="49.921px" y="296.60059" x="62.113743" font-weight="bold" line-height="1.25" fill="#b6f2fc">Prism</text>
+ </g>
+</svg>
