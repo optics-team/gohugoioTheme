@@ -1,0 +1,4 @@
+{{ $file := .Get 0 }}
+{{ $filePath := printf "code/%s" $file }}
+{{ $fileExt := replace (index (findRE "(\\.)\\w+$" $file) 0) "." "" }}
+<pre><code class="language-{{ $fileExt }}">{{ readFile $filePath }}</code><span class="source-footer">{{ $file }}</span></pre>
